@@ -7,7 +7,7 @@ I'm a **3rd-Year CSE student** from India. I spend my time exploring the interse
 ---
 
 ### 🔍 Current Focus
-- 🏗️ **Building:** [SentryGate](https://github.com/kats-04/Sentrygate.giT) — Learning the complexities of Identity & Access Management (IAM).
+- 🏗️ **Building:** [SentryGate](https://github.com/kats-04/Sentrygate.git) — Learning the complexities of Identity & Access Management (IAM).
 - 🐧 **Exploring:** Deep-diving into Linux system internals and Bash automation.
 
 ### 🛠️ My Toolbox
@@ -28,6 +28,6 @@ I have two laptops (a Dell and a Lenovo) and a goal: to turn one of them into a 
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](www.linkedin.com/in/shivanjali-ops) 
+[LinkedIn](https://www.linkedin.com/in/shivanjali-ops) 
 
 *"The more I learn, the more I realize how much I don't know."*
