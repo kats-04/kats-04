@@ -1,6 +1,5 @@
 # SHIVANJALI | Aspiring DevSecOps Engineer 🚀
-Portfolio:https://sivanjali-portfolio.netlify.app
-
+[Portfolio](https://sivanjali-portfolio.netlify.app)
 > "Currently converting coffee into scripts and mergeing conflicts into lessons."
 
 I'm a **4th-Year CSE student** from India. I spend my time exploring the intersection of security, automation, and the Linux kernel. I don't know everything yet, but I'm leraning something new every day to bridge that gap.
