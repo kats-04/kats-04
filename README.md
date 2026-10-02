@@ -1,8 +1,10 @@
-# 0xSHIVANJALI | Aspiring DevSecOps Engineer 🚀
+# SHIVANJALI | Aspiring DevSecOps Engineer 🚀
+Portfolio:https://sivanjali-portfolio.netlify.app
 
-> "Currently converting coffee into scripts and merge conflicts into lessons."
+> "Currently converting coffee into scripts and mergeing conflicts into lessons."
 
-I'm a **3rd-Year CSE student** from India. I spend my time exploring the intersection of security, automation, and the Linux kernel. I don't know everything yet, but I'm building something new every day to bridge that gap.
+I'm a **4th-Year CSE student** from India. I spend my time exploring the intersection of security, automation, and the Linux kernel. I don't know everything yet, but I'm leraning something new every day to bridge that gap.
+
 
 ---
 
@@ -21,9 +23,6 @@ I'm a **3rd-Year CSE student** from India. I spend my time exploring the interse
 ### 📈 My Open Source Journey
 - Recently made my first successful PR (and survived my first merge conflict!) 🥳
 - Currently looking for beginner-friendly issues in the Python & Linux ecosystem.
-
-### ⚡ Fun Fact
-I have two laptops (a Dell and a Lenovo) and a goal: to turn one of them into a fully automated home server. 
 
 ---
 
